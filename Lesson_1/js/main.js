@@ -12,6 +12,7 @@ const products = [
 ];
 
 
+
 const renderProduct = (title, price = 'Цена не указана', image = 'default.jpg') => {
     return `<div class="product-item">
                 <img src="img/${image.length ? image : 'default.jpg'}" alt="" class="product-item__img">
