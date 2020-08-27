@@ -1,43 +1,20 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
-    <title>Store</title>
-    <link rel="stylesheet" href="css/style.css">
+    <title>Интернет-магазин</title>
+    <link rel="stylesheet" href="./css/normalize.css">
+    <link rel="stylesheet" href="./css/style.css">
 </head>
-
-
-
 <body>
-    <header class="header">
-        <p class="logo">Интернет магазин</p>
-        <button class="btn-cart btn" type="button">Корзина</button>
-    </header>
-    <div class="cart invisible">
-        <div class="cart-title cart-row">
-            <div>Название</div>
-            <div>Цена за ед.</div>
-            <div>Количество</div>
-            <div>Общая стоимость</div>
-            <div></div>
-        </div>
-
-        <div class="cart-content">
-
-        </div>
-
-        <div class="cart-status cart-row">
-            <button class="btn-clear btn">Очистить корзину</button>
-            <p>В корзине <span id="cartTotalCount"></span> товаров на сумму <span id="cartTotalPrice"></span> рублей.</p>
-        </div>
-    </div>
-    <main>
-        <div class="products">
-        </div>
-    </main>
-    <script src="https://kit.fontawesome.com/3cc71fbe09.js"></script>
-    <script src="js/main.js"></script>
+<header>
+    <div class="logo">Интернет-магазин</div>
+    <button class="btn-cart" type="button">Корзина</button>
+    <div class="cart-block invisible"></div>
+</header>
+<main>
+    <div class="products"></div>
+</main>
+<script src="./js/main.js"></script>
 </body>
-
 </html>
