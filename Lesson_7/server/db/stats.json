@@ -1,0 +1,177 @@
+[
+    {
+        "action": "change",
+        "name": "Keyboard",
+        "time": "2019-11-18T07:19:16.210Z"
+    },
+    {
+        "action": "change",
+        "name": "Keyboard",
+        "time": "2019-11-18T07:19:16.724Z"
+    },
+    {
+        "action": "change",
+        "name": "Gamepad",
+        "time": "2019-11-18T07:21:01.319Z"
+    },
+    {
+        "action": "change",
+        "name": "Gamepad",
+        "time": "2019-11-18T07:21:01.842Z"
+    },
+    {
+        "action": "change",
+        "name": "Gamepad",
+        "time": "2019-11-18T07:21:02.271Z"
+    },
+    {
+        "action": "change",
+        "name": "Gamepad",
+        "time": "2019-11-18T07:21:02.946Z"
+    },
+    {
+        "action": "delete",
+        "name": "Gamepad",
+        "time": "2019-11-18T07:21:12.670Z"
+    },
+    {
+        "action": "change",
+        "name": "Keyboard",
+        "time": "2019-11-18T08:59:59.498Z"
+    },
+    {
+        "action": "add",
+        "name": "Gamepad",
+        "time": "2019-11-18T09:01:06.507Z"
+    },
+    {
+        "action": "change",
+        "name": "Keyboard",
+        "time": "2019-11-18T09:01:07.841Z"
+    },
+    {
+        "action": "change",
+        "name": "Keyboard",
+        "time": "2019-11-18T09:01:08.279Z"
+    },
+    {
+        "action": "change",
+        "name": "Keyboard",
+        "time": "2019-11-18T09:01:08.736Z"
+    },
+    {
+        "action": "change",
+        "name": "Keyboard",
+        "time": "2019-11-18T09:01:15.427Z"
+    },
+    {
+        "action": "change",
+        "name": "Keyboard",
+        "time": "2019-11-18T09:01:15.701Z"
+    },
+    {
+        "action": "change",
+        "name": "Keyboard",
+        "time": "2019-11-18T09:01:16.065Z"
+    },
+    {
+        "action": "change",
+        "name": "Keyboard",
+        "time": "2019-11-18T09:01:16.078Z"
+    },
+    {
+        "action": "change",
+        "name": "Keyboard",
+        "time": "2019-11-18T09:01:16.368Z"
+    },
+    {
+        "action": "change",
+        "name": "Keyboard",
+        "time": "2019-11-18T09:01:16.724Z"
+    },
+    {
+        "action": "change",
+        "name": "Keyboard",
+        "time": "2019-11-18T09:01:17.052Z"
+    },
+    {
+        "action": "change",
+        "name": "Keyboard",
+        "time": "2019-11-18T09:01:17.410Z"
+    },
+    {
+        "action": "change",
+        "name": "Keyboard",
+        "time": "2019-11-18T09:01:17.621Z"
+    },
+    {
+        "action": "change",
+        "name": "Keyboard",
+        "time": "2019-11-18T09:01:18.049Z"
+    },
+    {
+        "action": "change",
+        "name": "Keyboard",
+        "time": "2019-11-18T09:01:18.085Z"
+    },
+    {
+        "action": "change",
+        "name": "Keyboard",
+        "time": "2019-11-18T09:01:18.577Z"
+    },
+    {
+        "action": "change",
+        "name": "Keyboard",
+        "time": "2019-11-18T09:01:18.919Z"
+    },
+    {
+        "action": "change",
+        "name": "Keyboard",
+        "time": "2019-11-18T09:01:18.928Z"
+    },
+    {
+        "action": "change",
+        "name": "Keyboard",
+        "time": "2019-11-18T09:01:19.213Z"
+    },
+    {
+        "action": "delete",
+        "name": "Keyboard",
+        "time": "2019-11-18T09:01:19.574Z"
+    },
+    {
+        "action": "delete",
+        "name": "Gamepad",
+        "time": "2019-11-18T09:01:20.815Z"
+    },
+    {
+        "action": "add",
+        "name": "Keyboard",
+        "time": "2019-11-18T09:01:32.268Z"
+    },
+    {
+        "action": "change",
+        "name": "Keyboard",
+        "time": "2019-11-18T09:01:32.659Z"
+    },
+    {
+        "action": "add",
+        "name": "Gamepad",
+        "time": "2019-11-18T09:01:33.124Z"
+    },
+    {
+        "action": "change",
+        "name": "Gamepad",
+        "time": "2019-11-18T09:01:33.547Z"
+    },
+    {
+        "action": "add",
+        "name": "Ноутбук",
+        "time": "2019-11-18T09:01:34.264Z"
+    },
+    {
+        "action": "add",
+        "name": "Мышка",
+        "time": "2019-11-18T09:01:36.372Z"
+    }
+]
